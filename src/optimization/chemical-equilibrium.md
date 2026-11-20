@@ -4,7 +4,7 @@
 
 > [!NOTE]
 > **📚 Связанный конспект**  
-> [Линии уровня, `meshgrid` и поиск минимума](./levels-curves.md) — как устроены `objective(point)` и `minimize()`.
+> [Линии уровня, `meshgrid` и поиск минимума](./levels_curves.md) — как устроены `objective(point)` и `minimize()`.
 
 ## Шаг 1. Какую задачу решаем?
 
